@@ -16,7 +16,7 @@ The music industry is huge and the general public uses music recommender systems
 
 ### What dataset(s) do you plan to use, and how will you obtain the data?
 
-There are several datasets that are available and relevant. 
+I will create the dataset using APIs. 
 
 - Lyrics Genius: Use the python Lyrics Genius API, lyricsgenius, to obtain lyrics.
 - Spotify: I can generate a database of songs and their metadata using the Spotify API for Python: spotipy. I can also search in Spotify for my emotion categories to find songs pre-labeled with the target for the supervised learning question.
@@ -33,7 +33,7 @@ For the recommendation system, I will predict a related song. For the classifica
 
 ### How do you intend to meet the tools requirement of the project?
 
-I will use the ython text processing libraries/tools (such as NLTK, spaCy, gensim, scikit-learn) for data handling. Other tools will include APIs, SQL, and visualization tools.
+I will use the python text processing libraries/tools (such as NLTK, spaCy, gensim, scikit-learn) for data handling. Other tools will include APIs, SQL, and visualization tools.
 
 ### Are you planning in advance to need or use additional tools beyond those required?
 
